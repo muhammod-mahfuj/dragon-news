@@ -4,7 +4,7 @@ import Navbar from "../Components/Navbar";
 
 const AuthLayouts = () => {
     return (
-        <div className="font-Poppins bg-[#a9a6a6]">
+        <div className="font-Poppins bg-[#e3e2e2]">
             <header className="py-4 w-11/12 mx-auto ">
                 <Navbar></Navbar>
             </header>
